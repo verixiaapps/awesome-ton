@@ -56,6 +56,7 @@ Contributions welcome — open a PR with an entry following the format below.
 - [TON Adoption](https://ton-adoption.xyz/) — bilingual (RU / EN) guides, glossary, on-chain forensics.
 - [TON Hello World](https://helloworld.tonstudio.io/) — step-by-step contract tutorials.
 - [TON Foundation Blog](https://blog.ton.org/) — official announcements.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
